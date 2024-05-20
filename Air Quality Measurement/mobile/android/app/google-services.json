@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "914421826377",
+    "firebase_url": "https://havakontrol-43eef-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "havakontrol-43eef",
+    "storage_bucket": "havakontrol-43eef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914421826377:android:251184929c2ad9130b9098",
+        "android_client_info": {
+          "package_name": "com.example.hava_kontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCYWIiRfL9a2WDWzD9vCx3p2Dljbuhq3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
